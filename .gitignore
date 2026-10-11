@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+# never commit API keys
+.env
+.env.*

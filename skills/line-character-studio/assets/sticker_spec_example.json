@@ -1,0 +1,12 @@
+[
+ {"n": 1, "src": "WORKDIR/poses/01-wave-hello.png", "lines": [["Hello!"]]},
+ {"n": 2, "src": "WORKDIR/poses/02-wai-greeting.png", "lines": [["Thank you!"], ["Thank", "you!"]]},
+ {"n": 3, "src": "WORKDIR/poses/03-holding-sign.png", "lines": [["You got", "this!"]], "mode": "sign"},
+ {"n": 4, "src": "WORKDIR/poses/16-peek-uncut.png", "lines": [["You", "there?"]], "mode": "banner"},
+ {"n": 5, "src": "WORKDIR/poses/12-trophy.png", "lines": [["Congrats!"]], "prefer": "bottom"},
+ {"n": 6, "src": "WORKDIR/poses/05-thinking.png"},
+ {"n": 7, "src": "WORKDIR/poses/16-peek-uncut.png", "mode": "wall"},
+ {"n": 8, "src": "WORKDIR/poses/17-thumbs-up.png"},
+ {"kind": "main", "src": "WORKDIR/logo.png"},
+ {"kind": "tab", "src": "WORKDIR/poses/16-peek-uncut.png", "mode": "wall"}
+]
